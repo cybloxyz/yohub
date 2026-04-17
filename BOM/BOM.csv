@@ -1,8 +1,8 @@
-Id;Designator;Footprint;Qty;Description;Supplier;Ref/Part Number;Price_Unit_IDR;Total_Price_IDR
-1;C2,C7,C5,C3,C4,C1,C11,C8;C_0603_1608Metric;8;1uF Capacitor;LCSC;C15849;150;1200
-2;U1;SO16;1;SL2.1A (USB Hub IC);LCSC;C92463;4500;4500
-3;C10,C6,C9;C_0603_1608Metric;3;100nF Capacitor;LCSC;C14663;100;300
-4;J1,J4;USB_C_Receptacle (16P);2;USB-C Female GCT;LCSC;C719112;3500;7000
-5;R2,R1;R_0603_1608Metric;2;10k Resistor;LCSC;C25804;50;100
-6;R5,R6;R_0603_1608Metric;2;5.1k Resistor;LCSC;C25905;50;100
-7;J3,J5,J2;USB_A_Receptacle;3;USB 2.0 Type A;LCSC;C51922;2500;7500
+"Id";"Designator";"Qty";"Description";"LCSC_Ref";"URL";"Price_Unit_IDR";"Total_IDR"
+1;"C2,C7,C5,C3,C4,C1,C11,C8";8;"1uF Cap";"C15849";"https://www.lcsc.com/product-detail/C15849.html";150;1200
+2;"U1";1;"SL2.1A IC";"C92463";"https://www.lcsc.com/product-detail/C92463.html";4500;4500
+3;"C10,C6,C9";3;"100nF Cap";"C14663";"https://www.lcsc.com/product-detail/C14663.html";100;300
+4;"J1,J4";2;"USB-C 16P";"C719112";"https://www.lcsc.com/product-detail/C719112.html";3500;7000
+5;"R2,R1";2;"10k Res";"C25804";"https://www.lcsc.com/product-detail/C25804.html";50;100
+6;"R5,R6";2;"5.1k Res";"C25905";"https://www.lcsc.com/product-detail/C25905.html";50;100
+7;"J3,J5,J2";3;"USB A Rec";"C51922";"https://www.lcsc.com/product-detail/C51922.html";2500;7500
