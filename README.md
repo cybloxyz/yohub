@@ -4,10 +4,15 @@ this USB hub was deisgned with kicad
 
 ![zine](zine/yohub0.0.1.png)
 
+## why?
+i made this immediately after my laptop's touchpad broken, i realize that i only have one USB port and it is already taken for my mouse, i confuse how do i attach the flashdrive or anything else.
+
 ## what is this?
-keychain that you could use as an usual USB Hub, powered by SL2.1A! really compact and suitable for any bag ofc :3
+keychain that you could use as an usual USB Hub, powered by SL2.1A! really compact and suitable for any bag ofc :3 oh and it also has transparent case! a YoCase
 
 ![yohub](pics/yohubleft-only.png) ![yohub](pics/yohubonly.png)
+and here is the YoCase version
+![yohub with case](pics/yocase2.png)
 
 here are some features of YOHUB v0.1.0
 
@@ -23,6 +28,7 @@ here are some features of YOHUB v0.1.0
 
 ## schema and pcb
 here is the screenshot of schema and pcb editor
+here is the wiring diagram of Yohub, followed guide but i made the USB_A more than the USB_C since my laptop is lack of USB_A but have 3 port of USB_C.
 ![schema](pics/skema.png)
 ![pcb editor](pics/pcbeditor.png)
 
